@@ -1,0 +1,17 @@
+.course-data{
+    background-color: rgb(15, 166, 212);
+    display: inline-block;
+    padding: 1.5rem;
+    border: 2px solid black;
+    box-shadow: 2px 3px rgb(14, 1, 1);
+    border-radius: 0.5rem;
+    margin: 2rem;
+    font-size: 1.5rem;
+}
+
+.btn-action{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    padding: .5rem;
+}
